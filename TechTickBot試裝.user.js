@@ -4,6 +4,7 @@
 // @author       TechTickBot
 // @namespace    https://t.me/techtickbot_channel
 // @match        https://*.cityline.com/*
+// @match        https://www.cityline.com.hk/*
 // @exclude      https://www.cityline.com/*/Login.html*
 // @exclude      https://venue.cityline.com/utsvInternet/internet/shoppingBasket*
 // @match        https://www.urbtix.hk/*
