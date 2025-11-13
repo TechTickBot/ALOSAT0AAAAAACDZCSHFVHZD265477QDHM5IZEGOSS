@@ -18,6 +18,7 @@
 // @match        *://*.hkticketing.com/*
 // @exclude      https://*.hkticketing.com/Secure/ShowLogin.aspx*
 // @exclude      https://*.hkticketing.com/secure/viewbasket.aspx
+// @match        https://www.klook.com/*
 // @icon         https://techtickbot.com/logo.png
 // @grant        none
 // @run-at document-idle
